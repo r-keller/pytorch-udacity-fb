@@ -1,3 +1,6 @@
+* This is a personal and local repo for the PyTorch course in Udacity run by Facebook. 
+ I do not own any materials, and the original github repo is here: https://github.com/udacity/deep-learning-v2-pytorch 
+
 # Deep Learning (PyTorch)
 
 This repository contains material related to Udacity's [Deep Learning Nanodegree program](https://www.udacity.com/course/deep-learning-nanodegree--nd101). It consists of a bunch of tutorial notebooks for various deep learning topics. In most cases, the notebooks lead you through implementing models such as convolutional networks, recurrent networks, and GANs. There are other topics covered such as weight initialization and batch normalization.
